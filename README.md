@@ -1,30 +1,31 @@
-##Pegasus WhatsApp Bot
-#Deskripsi
-Pegasus WhatsApp Bot adalah sebuah alat canggih yang dikembangkan oleh Muhammad Sobri Maulana untuk memudahkan interaksi dan otomatisasi melalui platform WhatsApp. Bot ini dirancang untuk menyediakan serangkaian fungsi yang berguna, seperti mengirim pesan otomatis, mengelola grup, dan fitur interaktif lainnya yang dapat disesuaikan.
+# Pegasus WhatsApp Bot
 
-#Fitur
+## Deskripsi
+**Pegasus WhatsApp Bot** adalah sebuah alat canggih yang dikembangkan oleh Muhammad Sobri Maulana untuk memudahkan interaksi dan otomatisasi melalui platform WhatsApp. Bot ini dirancang untuk menyediakan serangkaian fungsi yang berguna, seperti mengirim pesan otomatis, mengelola grup, dan fitur interaktif lainnya yang dapat disesuaikan.
+
+## Fitur
 Pegasus WhatsApp Bot menawarkan berbagai fitur, termasuk:
+- **Pengiriman Pesan Otomatis:** Kirim pesan secara otomatis berdasarkan pemicu tertentu.
+- **Manajemen Grup:** Kelola grup WhatsApp Anda dengan mudah.
+- **Interaktivitas:** Interaksi dengan pengguna melalui perintah khusus.
+- **Kustomisasi:** Mudah untuk dikustomisasi sesuai kebutuhan pengguna.
 
-Pengiriman Pesan Otomatis: Kirim pesan secara otomatis berdasarkan pemicu tertentu.
-Manajemen Grup: Kelola grup WhatsApp Anda dengan mudah.
-Interaktivitas: Interaksi dengan pengguna melalui perintah khusus.
-Kustomisasi: Mudah untuk dikustomisasi sesuai kebutuhan pengguna.
-Persyaratan
+## Persyaratan
 Untuk menggunakan Pegasus WhatsApp Bot, Anda akan memerlukan:
+- Python versi 3.x
+- Beberapa pustaka Python yang diperlukan. (Lihat `requirements.txt` untuk daftar lengkap)
 
-Python versi 3.x
-Beberapa pustaka Python yang diperlukan. (Lihat requirements.txt untuk daftar lengkap)
-Instalasi
+## Instalasi
 Untuk menginstal Pegasus WhatsApp Bot, ikuti langkah-langkah ini:
+1. Clone repositori ini.
+2. Install pustaka yang diperlukan dengan menjalankan `pip install -r requirements.txt`.
+3. Jalankan bot dengan perintah `python main.py`.
 
-#Clone repositori ini.
-Install pustaka yang diperlukan dengan menjalankan pip install -r requirements.txt.
-Jalankan bot dengan perintah python main.py.
-Cara Penggunaan
+## Cara Penggunaan
 Instruksi penggunaan lebih lanjut akan ditambahkan di sini.
 
-#Kontribusi
+## Kontribusi
 Kontribusi untuk pengembangan Pegasus WhatsApp Bot sangat dihargai. Jika Anda ingin berkontribusi, silakan fork repositori ini dan buat pull request dengan perubahan Anda.
 
-#Lisensi
-Proyek ini dilisensikan di bawah Lisensi MIT.
+## Lisensi
+Proyek ini dilisensikan di bawah [Lisensi MIT](LICENSE).
